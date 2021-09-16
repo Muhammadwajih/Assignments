@@ -18,3 +18,9 @@
     Git is a version control system that lets you manage and keep track of your source code history.
     GitHub is a cloud-based hosting service that lets you manage Git repositories.
 
+5) Stages of Git
+    There are four different stages of Git.
+    1) Working directory
+    2) staging area
+    3) local repository
+    4) remote repository
