@@ -14,3 +14,7 @@
 3) What are the benefits of Cloud Computing.
     Its Cost Saving. Purchansing and matainance cost reduces. We demand resources as much as we want at any time and scale it at any time. We pay only how much we use. It also provide other services like disaster recovery, security, quality control, etc.
 
+4) Difference b/w Git & Github.
+    Git is a version control system that lets you manage and keep track of your source code history.
+    GitHub is a cloud-based hosting service that lets you manage Git repositories.
+
